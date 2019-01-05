@@ -177,4 +177,8 @@ a:hover {
   #generate-user-btn {
     width: 100%;
   }
+
+  a {
+    bottom: 10px;
+  }
 }
